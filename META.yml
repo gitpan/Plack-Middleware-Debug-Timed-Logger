@@ -31,4 +31,5 @@ requires:
 resources:
   bugtracker: http://rt.cpan.org/NoAuth/Bugs.html?Dist=Plack-Middleware-Debug-Timed-Logger
   license: http://dev.perl.org/licenses/
-version: 0.0.3
+  repository: git://github.com/mar-kolya/Plack-Middleware-Debug-Timed-Logger.git
+version: 0.0.4
